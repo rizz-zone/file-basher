@@ -1,0 +1,18 @@
+# Package Managers
+package-lock.json
+pnpm-lock.yaml
+package.json
+yarn.lock
+bun.lockb
+bun.lock
+
+# Generated files
+dist/
+out/
+build/
+coverage/
+generated/
+
+# IDE and tool-generated files
+.claude/
+.cursor/
